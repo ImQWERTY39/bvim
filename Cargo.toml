@@ -1,5 +1,5 @@
 [package]
-name = "binary_text_editor"
+name = "bvim"
 version = "0.1.0"
 edition = "2021"
 
